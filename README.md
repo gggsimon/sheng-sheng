@@ -6,6 +6,10 @@
 - 单文件 HTML，无外部依赖，5.3MB，离线可跑
 - 探索热点 · 抽卡 · 道具解锁支线 · 人物形态对谈 · 收集册
 
+## 在线玩
+
+https://gggsimon.github.io/sheng-sheng/
+
 ## 直接玩
 
 打开 `index.html` 即可（或 GitHub Pages 首页）。
